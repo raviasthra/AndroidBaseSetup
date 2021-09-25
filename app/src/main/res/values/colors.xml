@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAEFE4</color>
+    <color name="colorPrimaryDark">#FABB7C</color>
+    <color name="colorAccent">#CD0A0A</color>
+    <!--Additional colors-->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#111111</color>
+    <color name="colorOrange">#FF4F29</color>
+
+    <color name="colorBackground">#F6F6F6</color>
+    <color name="color_divider">#B5B5B5</color>
+    <color name="progressBarBackground">#545A5A5A</color>
+
+    <color name="color_on_surface">#555252</color>
+    <color name="bottom_nav">#E91E63</color>
+    <color name="color_golden_text">#FFEB3B</color>
+    <color name="color_gray_text_light">#333333</color>
+
+    <color name="color_orange">#FF9800</color>
+
+    <color name="indicator">#3F51B5</color>
+
+
+</resources>

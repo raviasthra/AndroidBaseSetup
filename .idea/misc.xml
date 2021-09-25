@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/drawable-v24/button_shape_white.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/border_shape.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/bottom_shape.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/button_shape.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/custom_progress.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/gray_border_shape.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/half_circle.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_logout.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/my_gradient_drawable.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/white_border_shape.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/white_gray_border_shape.xml" value="0.209375" />
+        <entry key="app/src/main/res/font/roboto.xml" value="0.2234375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11775362318840579" />
+        <entry key="app/src/main/res/layout/common_progress_bar.xml" value="0.10914855072463768" />
+        <entry key="app/src/main/res/layout/custom_dialog_list.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/dialog_admin.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/layout/dialog_preview_details.xml" value="0.14130434782608695" />
+        <entry key="app/src/main/res/layout/fragment_admin_fuel.xml" value="0.14855072463768115" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_employee.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_redeem_history.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_user_type.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/layout_toolbar.xml" value="0.12364130434782608" />
+        <entry key="app/src/main/res/layout/row_custom_dialog.xml" value="0.1213768115942029" />
+        <entry key="app/src/main/res/layout/row_customer_list.xml" value="0.14130434782608695" />
+        <entry key="app/src/main/res/layout/row_redeem_history.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/row_redeem_list.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/drawer_nav_menu.xml" value="0.19322916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

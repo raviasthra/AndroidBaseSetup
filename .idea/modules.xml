@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ponkrishna_Fuels.iml" filepath="$PROJECT_DIR$/.idea/modules/Ponkrishna_Fuels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ponkrishna_Fuels.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ponkrishna_Fuels.app.iml" />
+    </modules>
+  </component>
+</project>
