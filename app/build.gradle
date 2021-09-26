@@ -30,12 +30,12 @@ android {
         ponkrishnadev {
             dimension "environment"
             applicationIdSuffix ".dev"
-            buildConfigField 'String', 'BASE_URL', '"http://vinatechnologies.in"'
+            buildConfigField 'String', 'BASE_URL', '"https://vinatechnologies.in/laravel/public/"'
             resValue "string", "app_name", "Ponkrishna Fuels"
         }
         ponkrishnaprod {
             dimension "environment"
-            buildConfigField 'String', 'BASE_URL', '"http://vinatechnologies.in"'
+            buildConfigField 'String', 'BASE_URL', '"https://vinatechnologies.in/laravel/public/"'
             resValue "string", "app_name", "Ponkrishna Fuels"
         }
     }

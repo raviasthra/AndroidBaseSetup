@@ -13,7 +13,7 @@ import retrofit2.http.POST
 
 interface DashboardDetailsApiService {
 
-    @POST("/api/get-history")
+    @POST("api/get-history")
     suspend fun customerList(
         @Body dashboardRequest: CustomerListRequest
     ): Response<CustomerListResponse>
